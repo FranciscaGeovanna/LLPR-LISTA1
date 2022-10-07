@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <locale.h>
+
+int main() {
+	setlocale(LC_ALL, "Portuguese_Brazil");
+	
+	float n1, n2, soma, n3, subtracao;
+	
+	printf("Somar os números\n\n");
+	
+	printf("Primeiro número:");
+	scanf("%f", &n1);
+	
+	printf("Segundo número:");
+	scanf("%f", &n2);
+	
+	soma = n1 + n2;
+	
+	printf ("\nO valor da soma entre os números %.1f e %.1f é: %.1f", n1, n2, soma);
+	
+	printf ("\n\nSubtrair do resultado da soma");
+	
+	printf ("\n\nTerceiro número:");
+	scanf ("%f", &n3);
+	
+	subtracao = (n1+n2) - n3;
+	
+	printf("\nO resultado da soma calculada (%.1f + %.1f = %.1f) menos %.1f é: %.1f", n1, n2, soma, n3, subtracao);
+
+	
+	return 0;
+}
