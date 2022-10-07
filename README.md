@@ -11,4 +11,4 @@ Primeira lista da disciplina de LLPR
 
 5. Faça um programa que dado dois números inteiros calcule o quociente e o resto entre eles. 
 
-6.Faça um programa que leia dois números, calcule a soma entre eles, depois leia mais um número e subtraia esse número da soma calculada anteriormente. Por exemplo: se os dois primeiros números forem 5 e 8, você vai calcular a soma que dará 13, depois você lerá outro número, por exemplo, 6. E então fará 13 – 6. Você deve imprimir 7 como resposta.
+6. Faça um programa que leia dois números, calcule a soma entre eles, depois leia mais um número e subtraia esse número da soma calculada anteriormente. Por exemplo: se os dois primeiros números forem 5 e 8, você vai calcular a soma que dará 13, depois você lerá outro número, por exemplo, 6. E então fará 13 – 6. Você deve imprimir 7 como resposta.
