@@ -5,6 +5,8 @@ Primeira lista da disciplina de LLPR
 
 2. Ainda no Código, experimente remover os parênteses do comando: media = (x + y + z) / 3; O que aconteceu? O valor da média ainda foi calculado corretamente? Provavelmente não né? Por que? 
 
+     Resposta: O valor da média não será calculado, pois sem os parênteses não divide a soma de todos os números por 3, e sim apenas o n3
+
 3. Altere o Código para calcular a média de 2 números ao invés de 3
 
 4. Faça um programa que, dado 4 números, calcule o produto entre eles
